@@ -1,0 +1,9 @@
+{
+  "name": "HiToMyPro",
+  "symbol": "HTMP",
+  "description": "HiToMy for you.",
+  "image": "https://arweave.net/YOUR_IMAGE_HASH",
+  "attributes": [
+    { "trait_type": "Purpose", "value": "Testing" }
+  ]
+}
