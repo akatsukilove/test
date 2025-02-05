@@ -2,7 +2,7 @@
   "name": "HiToMyPro",
   "symbol": "HTMP",
   "description": "HiToMy for you.",
-  "image": "https://arweave.net/YOUR_IMAGE_HASH",
+  "image": "https://raw.githubusercontent.com/akatsukilove/test/main/IMG_4107.png",
   "attributes": [
     { "trait_type": "Purpose", "value": "Testing" }
   ]
