@@ -2,7 +2,7 @@
   "name": "HiToMyPro",
   "symbol": "HTMP",
   "description": "HiToMy for you.",
-  "image": "https://raw.githubusercontent.com/akatsukilove/test/main/IMG_4107.png",
+  "image": "https://gateway.pinata.cloud/ipfs/bafybeiekfif3vt2pmuk2j52e65du4jzcnrrwjxomijc73i2wy3upytsxxe",
   "attributes": [
     { "trait_type": "Purpose", "value": "Testing" }
   ]
